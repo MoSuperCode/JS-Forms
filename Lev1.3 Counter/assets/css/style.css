@@ -1,0 +1,33 @@
+main.box {
+    height: 370px;
+    width: 350px;
+    text-align: center;
+    background-color: rgb(214, 166, 135);
+    border: solid salmon;
+    margin: 10% auto;
+    border-radius: 10px;
+    padding-bottom: 2rem;
+}
+button {
+    font-size: 22px;
+    margin:10px;
+    padding:5px 60px;
+    max-width: 100px;
+    border: none;
+    border-radius: 10px;
+    background-color:tomato;
+}
+button:hover {
+    background-color:rgb(247, 162, 147);
+    cursor: pointer;
+}
+h1 {font-size: 48px;
+    margin: 10px auto 15px auto;
+}
+.count {
+    background-color: rgb(251, 213, 207);
+    display: inline-block;
+    margin-bottom: 10px;
+    width: 280px;
+    max-width: 280px;
+}
